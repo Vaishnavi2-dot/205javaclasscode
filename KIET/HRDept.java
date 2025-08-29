@@ -1,5 +1,4 @@
 package KIET;
-
 public class HRDept {
     public static void main(String[] args) {
         EmployeeKiet emp = new EmployeeKiet();
