@@ -13,7 +13,6 @@ public class EmployeeABES extends EmployeeKiet {
         EmployeeABES empABES = new EmployeeABES();
         empABES.Emp_Name = "Vaishnavi";
         empABES.Emp_id = 456;
-        empABES.Salary = 60000;
       }
     
 }

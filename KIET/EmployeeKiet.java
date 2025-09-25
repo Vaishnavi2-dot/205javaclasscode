@@ -2,7 +2,7 @@ package KIET;
 
 public class EmployeeKiet {
     public String Emp_Name;
-    private int Salary;
+    public int Salary;
     protected int Emp_id;
     String organisation; //deafult access modifier
     void employeeDetails(){
